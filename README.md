@@ -3,11 +3,11 @@
 
 Live Demo: https://realdealagency.netlify.app/
 
-# client
+# App
 
 <div align="center" style="margin: 30px;">
-    <a href="https://refine.dev">
-    <img src="https://refine.ams3.cdn.digitaloceanspaces.com/refine_logo.png"  align="center" />
+    <a href="https://realdealagency.netlify.app/">
+    Live Demo
     </a>
 </div>
 <br/>
