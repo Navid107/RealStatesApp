@@ -1,5 +1,5 @@
 # Node.JS REST API with React and Refine 
-<a href="https://realdealagency.netlify.app/">Live Demo</a>
+
 
 ## A fully functional project written in Node.js showing how to craete a REST API
 
@@ -11,10 +11,14 @@ This is a simple CRUD appolication where every part of this project is sample co
 * Create a Mongoose DataBase which saves the data in cloud 
 * Create a front end with React 
 
-
 <br/>
 
-This [refine](https://github.com/pankod/refine) project was generated with [superplate](https://github.com/pankod/refine).
+## Demo 
+
+* <a href="https://realdealagency.netlify.app/">Live Demo</a>
+* First Login 
+<img width="200" alt="Screenshot" src="https://user-images.githubusercontent.com/90425833/235983495-0b6e37da-b0e2-4726-8237-53c710418ad0.png">
+
 
 ## Getting Started
 
