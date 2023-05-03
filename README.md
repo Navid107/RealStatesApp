@@ -17,7 +17,9 @@ This is a simple CRUD appolication where every part of this project is sample co
 
 * <a href="https://realdealagency.netlify.app/">Live Demo</a>
 * Login 
-<img width="300" alt="Screenshot" src="https://user-images.githubusercontent.com/90425833/235983495-0b6e37da-b0e2-4726-8237-53c710418ad0.png"><img width="300" alt="Screenshot" src="https://user-images.githubusercontent.com/90425833/235983987-4b6f7d0e-34ec-4986-8e3a-bc183178e0eb.png">
+
+<img width="300" alt="Screenshot" src="https://user-images.githubusercontent.com/90425833/235983495-0b6e37da-b0e2-4726-8237-53c710418ad0.png">
+<img width="300" alt="Screenshot" src="https://user-images.githubusercontent.com/90425833/235983987-4b6f7d0e-34ec-4986-8e3a-bc183178e0eb.png">
 
 * View the properties 
 <img width="300" alt="Screenshot" src="https://user-images.githubusercontent.com/90425833/235984064-3613d864-2180-4117-9a78-5f5daf90aa0b.png">
