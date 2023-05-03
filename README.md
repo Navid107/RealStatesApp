@@ -51,7 +51,7 @@ Please follow the steps to intall all dependencies to use this repo
 4. Create an account in <a herf="https://cloudinary.com/">Cloudinary</a> and inside .env file pass these variables and 
     CLOUDINARY_CLOUD_NAME = "", CLOUDINARY_API_KEY = "", CLOUDINARY_API_SECRET = "".
 5. in Client folder create a .env file and indide .env file create a variable REACT_APP_GOOGLE_CLIENT_ID = "", in <a                herf="https://console.cloud.google.com/"> Google Cloud</a> create an project and pass the value of Client ID into .env file.
-6. npm intall
+6. npm install
 
 ## Available Scripts
 
