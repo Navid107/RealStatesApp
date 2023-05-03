@@ -1,7 +1,16 @@
 # Node.JS REST API with React and Refine 
 <a href="https://realdealagency.netlify.app/">Live Demo</a>
 
-# App
+## A fully functional project written in Node.js showing how to craete a REST API
+
+This is a simple CRUD appolication where every part of this project is sample code which shows how to do the following:
+
+* Create a custom web server with Node.JS using HTTPRouter
+* Create a simple REST API that serves CLient and easy to manage
+* Create a simple charts or graphs with Refine
+* Create a Mongoose DataBase which saves the data in cloud 
+* Create a front end with React 
+
 
 <br/>
 
