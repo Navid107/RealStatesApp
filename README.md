@@ -38,7 +38,7 @@ This is a simple CRUD appolication where every part of this project is sample co
 
 
 
-## How to install dependecy for this app 
+## How to install dependencies for this app 
 
 Please follow the steps to intall all dependencies to use this repo 
 
