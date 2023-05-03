@@ -6,7 +6,7 @@
 This is a simple CRUD appolication where every part of this project is sample code which shows how to do the following:
 
 * Create a custom web server with Node.JS using HTTPRouter
-* Create a simple REST API that serves CLient and easy to manage
+* Create a simple REST API that serves Client and easy to manage
 * Create a simple charts or graphs with Refine
 * Create a Mongoose DataBase which saves the data in cloud 
 * Create a front end with React 
@@ -38,11 +38,17 @@ This is a simple CRUD appolication where every part of this project is sample co
 
 
 
-## Getting Started
+## How to install dependecy for this app 
 
-**refine** is a React-based framework for building data-intensive applications in no time ✨
+Please follow the steps to intall all dependencies to use this repo 
 
-Refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability. Use-cases include, but are not limited to admin panels, B2B applications and dashboards.
+1. Clone this project. 
+2. Set up a local mangoose database or use <a herf="https://www.mongodb.com/atlas/database"> MongoDB Cloud</a>.
+3. In server folder create a .env file and inside .env file create a variable "MONGODB_URL" and pass your mongoDB to it.
+4. Create an account in <a herf="https://cloudinary.com/">Cloudinary</a> and inside .env file pass these variables and 
+    CLOUDINARY_CLOUD_NAME = "", CLOUDINARY_API_KEY = "", CLOUDINARY_API_SECRET = "".
+5. in Client folder create a .env file and indide .env file create a variable REACT_APP_GOOGLE_CLIENT_ID = "", in <a                herf="https://console.cloud.google.com/"> Google Cloud</a> create an project and pass the value of Client ID into .env file.
+6. npm intall
 
 ## Available Scripts
 
@@ -64,20 +70,3 @@ Refine offers lots of out-of-the box functionality for rapid development, withou
     npm run start
 ```
 
-## Learn More
-
-To learn more about **refine**, please check out the [Documentation](https://refine.dev/docs)
-
-- **REST Data Provider** [Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
-- **Material UI** [Docs](https://refine.dev/docs/ui-frameworks/mui/tutorial/)
-- **Inferencer** [Docs](https://refine.dev/docs/packages/documentation/inferencer)
-- **Material UI Light/Dark Mode** [Docs](https://refine.dev/docs/ui-frameworks/mui/customization/mui-custom-theme/)
-- **Material UI Custom Theme** [Docs](https://refine.dev/docs/ui-frameworks/mui/customization/mui-custom-theme/)
-- **Custom Layout** [Docs](https://refine.dev/docs/ui-frameworks/mui/customization/mui-custom-layout/)
-- **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
-- **Google Auth Provider** [Docs](https://refine.dev/docs/core/providers/auth-provider/)
-
-
-## License
-
-MIT
